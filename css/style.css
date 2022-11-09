@@ -72,7 +72,7 @@ header{
 }
 #banner::before{
     content: '';
-    background: rgba(77,77,92, 0.3);
+    background: rgba(77,77,92, 0.5);
     position: absolute;
     width: 100%;
     height: 45vh;
